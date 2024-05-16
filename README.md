@@ -14,8 +14,5 @@ Welcome to my GitHub repository! This space is dedicated to the exploration of C
 - Secure Coding Practices
 
 
-## Collaboration
-Feel free to explore the code and projects! If you have any questions, suggestions, or would like to collaborate, don't hesitate to reach out to me via email at [cybersec_cs@email.com](mailto:cybersec_cs@email.com).
-
 ## Stay Secure!
 Happy coding and stay secure!
