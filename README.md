@@ -12,7 +12,3 @@ Welcome to my GitHub repository! This space is dedicated to the exploration of C
 - Penetration Testing
 - Security Tools
 - Secure Coding Practices
-
-
-## Stay Secure!
-Happy coding and stay secure!
