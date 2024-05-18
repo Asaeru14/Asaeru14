@@ -1,14 +1,17 @@
-
+<div align="center">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola! Soy Asaeru.</h1>
+  
+<br>
 <div>
   
 <img src="https://github.com/Asaeru14/Asaeru14/assets/127261423/191f75e0-c117-4fc5-be67-94639d921741" align="right" width="400">
 
 
 
-<h2> / about me /</h2> 
+<h2> -about me- </h2> 
   
 - 💀 currently studying **Computer Science** on **FAMAF - UNC**
-- 🌐  a **student** focused on cybersecurity
+- 🌐 a **student** focused on cybersecurity
   
 
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "js" />
