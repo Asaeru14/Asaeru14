@@ -9,7 +9,7 @@
 - 👾 a **student** focused on cybersecurity
   
 <h2> / / </h2>
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "js" />
   <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt = "ts" />
