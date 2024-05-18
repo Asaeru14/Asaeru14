@@ -1,7 +1,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pximg.net/img-master/img/2024/05/09/21/19/34/118579902_p0_master1200.jpg"/>
 
 <h2> / about me /</h2>
   
