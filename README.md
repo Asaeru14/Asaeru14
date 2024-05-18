@@ -2,7 +2,8 @@
 <div>
 
 
-<img align="right" width="400" src="https://i.pximg.net/img-master/img/2024/05/09/21/19/34/118579902_p0_master1200.jpg"/>
+![](https://i.pximg.net/img-original/img/2024/05/09/21/19/34/118579902_p0.jpg)
+
 
 <h2> / about me /</h2> 
   
