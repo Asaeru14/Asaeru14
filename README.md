@@ -1,9 +1,10 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.pximg.net/img-master/img/2024/05/09/21/19/34/118579902_p0_master1200.jpg"/>
 
-<h2> / about me /</h2>
+<img align="right" width="400" src="https://i.pximg.net/img-master/img/2024/05/09/21/19/34/118579902_p0_master1200.jpg"/>
+
+<h2> / about me /</h2> 
   
 - ⭐ currently studying **Computer Science** on **FAMAF - UNC**
 - 👾 a **student** focused on cybersecurity
