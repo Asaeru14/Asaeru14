@@ -8,7 +8,7 @@
 - ⭐ currently studying **Computer Science** on **FAMAF - UNC**
 - 👾 a **student** focused on cybersecurity
   
-<h2> / / </h2>
+<h2> / learning / </h2>
 
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "js" />
