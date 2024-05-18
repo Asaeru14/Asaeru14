@@ -2,9 +2,9 @@
 <div>
 
 
+<img src="https://github.com/Asaeru14/Asaeru14/assets/127261423/191f75e0-c117-4fc5-be67-94639d921741" alt="Megumin" width="200" height="500">
 
 
-![megumin](https://github.com/Asaeru14/Asaeru14/assets/127261423/191f75e0-c117-4fc5-be67-94639d921741)
 
 <h2> / about me /</h2> 
   
