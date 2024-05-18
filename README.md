@@ -2,8 +2,9 @@
 <div>
 
 
-![](https://i.pximg.net/img-original/img/2024/05/09/21/19/34/118579902_p0.jpg)
 
+
+![megumin](https://github.com/Asaeru14/Asaeru14/assets/127261423/191f75e0-c117-4fc5-be67-94639d921741)
 
 <h2> / about me /</h2> 
   
@@ -21,8 +22,7 @@
   
   </br></br>
   
-<div align="right">
-<a href="https://www.pixiv.net/en/artworks/118579902">Image by Scupp </a>
+
   </div>
   </div>
 
