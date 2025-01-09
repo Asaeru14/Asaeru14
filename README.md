@@ -4,10 +4,6 @@
 <br>
 <div>
   
-
-<img src="https://github.com/Asaeru14/Asaeru14/assets/127261423/191f75e0-c117-4fc5-be67-94639d921741" align="right" width="350">
-
-
 <h2> -about me- </h2> 
   
 - 💀 currently studying **Computer Science** on **FAMAF - UNC**
