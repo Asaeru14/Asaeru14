@@ -6,8 +6,8 @@
   
 <h2> -about me- </h2> 
   
-- 💀 currently studying **Computer Science** on **FAMAF - UNC**
-- 🌐 a **student** focused on cybersecurity
+- currently studying **Computer Science**
+- 🌐 hack the world
 
 
   <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt = "js" />
